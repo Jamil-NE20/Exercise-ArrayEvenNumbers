@@ -1,0 +1,7 @@
+C:\Users\Studerande\source\repos\ArrayEvenNumbers\ArrayEvenNumbers\bin\Debug\ArrayEvenNumbers.exe.config
+C:\Users\Studerande\source\repos\ArrayEvenNumbers\ArrayEvenNumbers\bin\Debug\ArrayEvenNumbers.exe
+C:\Users\Studerande\source\repos\ArrayEvenNumbers\ArrayEvenNumbers\bin\Debug\ArrayEvenNumbers.pdb
+C:\Users\Studerande\source\repos\ArrayEvenNumbers\ArrayEvenNumbers\obj\Debug\ArrayEvenNumbers.csprojAssemblyReference.cache
+C:\Users\Studerande\source\repos\ArrayEvenNumbers\ArrayEvenNumbers\obj\Debug\ArrayEvenNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Studerande\source\repos\ArrayEvenNumbers\ArrayEvenNumbers\obj\Debug\ArrayEvenNumbers.exe
+C:\Users\Studerande\source\repos\ArrayEvenNumbers\ArrayEvenNumbers\obj\Debug\ArrayEvenNumbers.pdb
